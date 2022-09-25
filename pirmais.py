@@ -5,8 +5,6 @@ Izveidoja: Gļebs Dimitrijevs DP2-1
 """
 
 def nosaka_punktu(liet_x, liet_y):
-    
-    # Ievadam lietotāja punkta datus 
 
     # Salīdzinam vērtības, meklējam puntkta atrašanas vietu
     if liet_x > -1 and liet_x < 3 and liet_y < 1 and liet_y > -2:
